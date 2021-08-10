@@ -2,9 +2,9 @@
 
 ![date](https://img.shields.io/badge/date-07.08.2021-brightgreen.svg)  
 
-![category](https://img.shields.io/badge/category-web-red.svg)
+![category](https://img.shields.io/badge/category-web-lightgrey.svg)
 
-![score](https://img.shields.io/badge/score-420-blue.svg)
+![score](https://img.shields.io/badge/score-420/500-blue.svg)
 
 ## Description
 
