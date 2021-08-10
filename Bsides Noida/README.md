@@ -9,3 +9,4 @@ Members:
 - [Alok Naushad](https://github.com/mintbomb27)
 - [Vibhuti Arora](https://github.com/vibhutiarora355)
 - [Kavipriya A](https://github.com/kavxprxya)
+- [Additya Singhal](https://github.com/UnknownAbyss)
