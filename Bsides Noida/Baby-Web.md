@@ -1,17 +1,15 @@
 # Baby Web
 
 ![date](https://img.shields.io/badge/date-07.08.2021-brightgreen.svg)  
-![warmup category](https://img.shields.io/badge/category-web-red.svg)
+
+![category](https://img.shields.io/badge/category-web-red.svg)
+
 ![score](https://img.shields.io/badge/score-420-blue.svg)
-![solves](https://img.shields.io/badge/solves-68-brightgreen.svg)
 
 ## Description
 
 Just a place to see list of all challs from bsides noida CTF, maybe some flag too xD
 Note : Bruteforce is not required.
-
-
-## Attached files
 
 - [Website](http://ctf.babyweb.bsidesnoida.in/)
 - [Source](https://storage.googleapis.com/noida_ctf/Web/baby_web.zip)
@@ -64,6 +62,3 @@ The code above is part of the ctf.conf file. Here is is checking for any % symbo
 However, we can bypass this in a clever way. If we observe, the **$arg_chall_id** only looks at the first occurrence of the parameter. Hence, we can use a duplicate parameter to input data that was previously not allowed such as letters.
 
 For example, http://ctf.babyweb.bsidesnoida.in/?chall_id=1&chall_id=4+or+true works as an SQLi, even though it is not of any significance.
-
-## Author
-[Additya SInghal](https://github.com/UnknownAbyss)
