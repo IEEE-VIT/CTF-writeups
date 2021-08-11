@@ -7,6 +7,7 @@ CTF Website: https://ctf.bsidesnoida.in/
 Members:
 - [Shubham Palriwala](https://github.com/ShubhamPalriwala)
 - [Alok Naushad](https://github.com/mintbomb27)
+- [Aneesh Panda](https://github.com/aneeshpanda)
 - [Vibhuti Arora](https://github.com/vibhutiarora355)
 - [Kavipriya A](https://github.com/kavxprxya)
 - [Additya Singhal](https://github.com/UnknownAbyss)
